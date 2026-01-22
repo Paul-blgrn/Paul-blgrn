@@ -6,7 +6,7 @@
 - ✌️ My name is Paul and I am passionate about computers.
 - 🧠 This GitHub profile is dedicated to publishing my courses.
 - 💬 Curious and passionate, I enjoy discussing technology, gaming, or any other interesting topic..
-- 1️⃣ My main GitHub profile: `https://github.com/h0ldhaven`.
+- 1️⃣ My main GitHub profile: [github.com/h0ldhaven](https://github.com/h0ldhaven).
 
 ---
 
