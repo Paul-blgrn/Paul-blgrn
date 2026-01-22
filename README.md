@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Hello and welcome to my Student page. !
+
+---
+
+### Aboue me :
+- ✌️ My name is Paul and I am passionate about computers.
+- 🧠 This GitHub profile is dedicated to publishing my courses.
+- 💬 Curious and passionate, I enjoy discussing technology, gaming, or any other interesting topic..
+- 1️⃣ My main GitHub profile: `https://github.com/h0ldhaven`.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-blgrn&langs_count=10&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul-blgrn&show_icons=true&theme=tokyonight" style="display:inline-block; margin-right: 10px;" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paul-blgrn&theme=tokyonight" style="display:inline-block; margin-right: 10px;" />
+</p>
+
+---
 
 <!--
 **Paul-blgrn/Paul-blgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
